@@ -1,2 +1,2 @@
 # BarcodeReader-Primefaces
-Simple Qr/ Barcode reader using Primefaces phoroCam and zxing library.
+Simple Qr / Barcode reader using Primefaces photoCam and zxing library.
